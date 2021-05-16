@@ -99,3 +99,12 @@
         font-size: 3rem;
     }
 }
+
+.my-masonry-grid {
+    display: flex;
+    margin-left: -20px;
+}
+.my-masonry-grid_column {
+    border-left: 20px solid transparent;
+    background-clip: padding-box;
+}

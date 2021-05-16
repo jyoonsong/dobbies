@@ -1,6 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import { Container, CardColumns } from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
+import Masonry from 'react-masonry-css'
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -21,7 +22,10 @@ const Tag = ({ pageContext, data, location }) => {
 
       <Container>
         <h1 className="mb-4">{tagHeader}</h1>
-        <CardColumns>
+        <Masonry
+            breakpointCols={{default: 4, 1450: 3, 767: 2, 500: 1}}
+            className="my-masonry-grid"
+            columnClassName="my-masonry-grid_column">
             {edges.map(({ node }) => {
                 console.log(node)
                 const { slug } = node.fields
@@ -30,7 +34,7 @@ const Tag = ({ pageContext, data, location }) => {
                     <PostItem post={node} />
                 )
             })}
-        </CardColumns>
+        </Masonry>
 
         <div className="text-center mt-4">
             <Link className="arrow after text-primary" to="/tags">View all tags</Link>

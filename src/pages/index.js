@@ -1,6 +1,7 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-import { CardColumns, Container } from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
+import Masonry from 'react-masonry-css'
 
 import Intro from "../components/Intro"
 import Layout from "../components/layout"
@@ -33,13 +34,16 @@ const Index = ({ data, location }) => {
       {/* posts */}
       <section className="pt-4 pb-3">
         <Container>
-          <CardColumns>
+          <Masonry
+            breakpointCols={{default: 4, 1450: 3, 767: 2, 500: 1}}
+            className="my-masonry-grid"
+            columnClassName="my-masonry-grid_column">
             {posts.map(post => {
-              return (
-                <PostItem post={post} key={post.fields.slug} />
-              )
+                return (
+                  <PostItem post={post} key={post.fields.slug} />
+                )
             })}
-          </CardColumns>
+          </Masonry>
           <div className="mt-4 mb-2 text-center">
               <Link to="/blog" className="text-primary arrow after">더 많은 글 보러 가기</Link>
           </div>

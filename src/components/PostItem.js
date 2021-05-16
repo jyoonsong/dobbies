@@ -12,6 +12,7 @@ const PostItem = ({ post }) => {
     itemScope
     itemType="http://schema.org/Article"
     key={post.fields.slug}
+    className="mb-3"
     >
         <Link to={post.fields.slug} itemProp="url">
         
