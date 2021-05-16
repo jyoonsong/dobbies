@@ -12,6 +12,7 @@ module.exports = {
     },
   },
   plugins: [
+    `gatsby-plugin-netlify-cms`,
     `gatsby-image`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sass`,
