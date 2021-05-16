@@ -14,7 +14,7 @@ blog를 들었어요
 
 
 
-![face](/public/dobby1-apple.png "hehhe")
+![face](/public/dobby1-apple.png)
 
 앗 한글이 잘 안된다는 문제를 발견했다.
 
