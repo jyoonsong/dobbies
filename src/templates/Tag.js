@@ -28,8 +28,6 @@ const Tag = ({ pageContext, data, location }) => {
             columnClassName="my-masonry-grid_column">
             {edges.map(({ node }) => {
                 console.log(node)
-                const { slug } = node.fields
-                const { title } = node.frontmatter
                 return (
                     <PostItem post={node} />
                 )
@@ -66,6 +64,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            thumbnail
           }
         }
       }

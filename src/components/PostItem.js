@@ -16,8 +16,10 @@ const PostItem = ({ post }) => {
     >
         <Link to={post.fields.slug} itemProp="url">
         
-        { !post.img ?
-            <Card.Img src="https://images.unsplash.com/photo-1579546929518-9e396f3cc809"/>: ""
+        { !post.frontmatter.thumbnail ?
+            ""
+            :
+            <Card.Img src={post.frontmatter.thumbnail} />
         }
 
         <Card.Body>
