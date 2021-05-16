@@ -3,7 +3,7 @@ backend:
   repo: jyoonsong/dobbies
   branch: main
 
-media_folder: "/src/images"
+media_folder: "images"
 public_folder: "/src/images"
 
 collections:

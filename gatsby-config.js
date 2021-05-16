@@ -12,12 +12,12 @@ module.exports = {
     },
   },
   plugins: [
-    `gatsby-plugin-netlify-cms`,
     `gatsby-image`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sass`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-netlify-cms`,
     "gatsby-remark-normalize-paths",
     {
       resolve: `gatsby-transformer-yaml`,
