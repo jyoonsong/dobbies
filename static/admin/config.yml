@@ -3,8 +3,8 @@ backend:
   repo: jyoonsong/dobbies
   branch: main
 
-media_folder: "images"
-public_folder: "/static/"
+media_folder: "static/"
+public_folder: "static/"
 
 collections:
   - name: "article"
