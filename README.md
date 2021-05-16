@@ -1,6 +1,7 @@
 # HCI and the Seven Dobbies
 
 ### 포스트 작성 방법
+- Netlify 가입 후 이메일을 알려주면 멤버로 초대하도록 하겠습니다!
 - 어드민 페이지 접속: https://studyhci.netlify.app/admin/ (안될 경우 뒤에 #confirmation_token=abcde 붙여보기)
 - Netlify 가입한 계정으로 로그인
 - New Article 클릭해서 글 작성
