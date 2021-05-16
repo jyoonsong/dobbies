@@ -21,5 +21,11 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
-      - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        field:
+          - label: "Tag"
+            name: "tag"
+            widget: "string"
