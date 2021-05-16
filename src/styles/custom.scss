@@ -14,6 +14,22 @@
     }
 }
 
+@media (max-width: 990px) {
+    .navbar {
+        .container {
+            background-color: rgba(255, 255, 255, 0.96);
+            // box-shadow: 0 2px 8px rgb(0 0 0 / 8%);
+        }
+        .form-inline {
+            margin-top: .75rem;
+            border-bottom: 1px solid #efefef;
+            .form-control {
+                width: 70%;
+                margin-right: .75rem;
+            }
+        }
+    }
+}
 .intro {
     background-color: #e9ecef;
     margin-top: 2.5rem;
@@ -117,4 +133,8 @@ article {
 
 .tag-cloud-tag:hover {
     filter: brightness(0.8);
+}
+
+footer {
+    border-top: 1px solid #efefef;
 }

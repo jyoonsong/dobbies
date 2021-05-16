@@ -13,7 +13,7 @@
  const Intro = () => {
  
    return (
-    <section className="intro py-5 my-5 px-1">
+    <section className="intro py-5 my-sm-5 my-0 px-1">
      <Container>
         <Row>
             <Col className="justify-content-center text-center pt-2">
@@ -32,6 +32,7 @@
                     src={"../images/dobby6.png"}
                     alt="avatar of the dobbies"
                 />
+                <br className="d-md-none"/>
                 <StaticImage
                     className="avatar"
                     src={"../images/dobby2.png"}
