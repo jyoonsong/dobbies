@@ -10,7 +10,6 @@
 - `src/data/members.yaml` 수정
 
 ### Todos
-- 이미지 업로드 에러 해결
 - 검색
 - author 멤버 연결
 - 멤버별 페이지
