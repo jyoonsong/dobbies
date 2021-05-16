@@ -20,6 +20,12 @@ module.exports = {
     `gatsby-plugin-netlify-cms`,
     "gatsby-remark-normalize-paths",
     {
+      resolve: `gatsby-plugin-netlify-cms-paths`,
+      options: {
+        cmsConfig: `/static/admin/config.yml`,
+      },
+    },
+    {
       resolve: `gatsby-transformer-yaml`,
       options: {
         typeName: `Yaml`, // a fixed string
@@ -50,9 +56,15 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `gatsby-plugin-netlify-cms-paths`,
+            options: {
+              cmsConfig: `/static/admin/config.yml`,
+            },
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 630,
+              maxWidth: 800,
             },
           },
           {
