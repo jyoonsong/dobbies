@@ -1,0 +1,22 @@
+$brand-color: #9013FE !default;
+$brand-color-light: #C27DFF !default;
+
+$pink-purple: #F0C5FF !default;
+$blue-purple: #D0CAFF !default;
+
+$light-purple: #C6AAFF !default;
+$orange-purple-2: #DBB0F7 !default;
+$orange-purple: #EFB7EF !default;
+
+$text-color: #333 !default;
+$yellow: #FFFAB5 !default;
+$orange: #F5A623 !default;
+$red: #db412d !default;
+
+
+// Basic
+@import "styles/bootstrap.min.css";
+@import "styles/normalize";
+
+// // Custom
+@import "styles/custom";
