@@ -114,3 +114,7 @@ article {
         max-width: 100%;
     }
 }
+
+.tag-cloud-tag:hover {
+    filter: brightness(0.8);
+}
