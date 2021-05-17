@@ -22,7 +22,7 @@ const Navigation = ({ title, isRootPath }) => {
                         <Link className="nav-link" to="/tags">Tags</Link>
                     </Nav>
 
-                    <Form inline className="pb-3 pb-lg-0">
+                    <Form inline className="pb-2 pb-lg-0">
                         <FormControl type="text" placeholder="e.g., visualization" className="mr-sm-2" />
                         <Button variant="outline-primary" onClick={() => alert("준비중")}>search</Button>
                     </Form>
