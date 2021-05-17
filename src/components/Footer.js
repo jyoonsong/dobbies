@@ -4,7 +4,7 @@ import { Container, Row, Col } from 'react-bootstrap'
 const Footer = () => {
  
     return (
-      <footer className="py-5 mt-2">
+      <footer className="py-5 mt-5">
         <Container>
           <Row>
             <Col xs={{ span: 8, offset: 4}} className="text-right">
