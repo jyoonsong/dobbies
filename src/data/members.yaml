@@ -27,3 +27,13 @@
   img: ../images/dobby4.png
   extension: png
   site: https://jaeyoon.io
+  
+- name: 본인이름
+  introduction: 원하시는 말
+  email: jaeyoons@mit.edu
+  keywords:
+    - social computing
+    - human-AI collaboration
+  img: ../images/dobby4.png
+  extension: png
+  site: https://jaeyoon.io
