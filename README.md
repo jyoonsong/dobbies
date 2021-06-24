@@ -1,4 +1,4 @@
-# HCI and the Seven Dobbies
+# Humans, Computers, and Dobbies
 
 ### 포스트 작성 방법
 - Netlify 가입 후 이메일을 알려주면 멤버로 초대하도록 하겠습니다!
