@@ -47,3 +47,18 @@
   img: ../images/jane-im.png
   extension: png
   site: https://imjane.net
+
+- name: Taeahn Kwon
+  introduction: >-
+    Hi! I am a research intern at the Human-Centered Computer Systems Lab in 
+    Seoul National University. My research interests are at the intersection 
+    of HCI, systems, and applied ML. I am currently working on systems that
+    can provide human-like assistance to people through context and situation 
+    awareness.
+  email: taeahn.kwon@columbia.edu
+  keywords:
+    - context-aware computing
+    - applied machine learning
+  img: ../images/taeahn-kwon.png
+  extension: png
+  site: https://terrykwon.com
