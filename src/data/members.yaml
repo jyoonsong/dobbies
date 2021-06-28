@@ -37,3 +37,13 @@
   img: ../images/yjcha.png
   extension: png
   site: https://yoonjeongcha.com
+  
+  - name: Jane Im
+  introduction: Hello! :) I am a social computing researcher and am currently a PhD student at the University of Michigan, both in the School of Information and Computer Science and Engineering. I design and build consentful systems to create a social internet that is safe and empowering for everyone, including marginalized populations.
+  email: imjane@umich.edu
+  keywords:
+    - Social Computing
+    - Consent
+  img: ../images/jane-im.png
+  extension: png
+  site: https://imjane.net
