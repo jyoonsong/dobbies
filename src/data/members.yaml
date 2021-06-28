@@ -27,3 +27,13 @@
   img: ../images/dobby4.png
   extension: png
   site: https://jaeyoon.io
+  
+  - name: Yoon Jeong Cha
+  introduction: Hi, I'm a PhD student at University of Michigan, School of Information. My research interest focus on HCI and Health Informatics. Specifically, I'm interested in understanding the challenges of child patients and designing technologies to support them. 
+  email: yjcha@umich.edu
+  keywords:
+    - Human-Computer Interaction
+    - Health Informatics
+  img: ../images/yjcha.png
+  extension: png
+  site: https://yoonjeongcha.com
