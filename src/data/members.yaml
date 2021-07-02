@@ -8,15 +8,15 @@
   extension: png
   site: https://jaeyoon.io
 
-- name: Jaewon Kim
-  introduction: This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.
-  email: jaeyoons@mit.edu
+- name: JaeWon Kim
+  introduction: introduction placeholder introduction placeholder introduction placeholder introduction placeholder introduction placeholder introduction placeholder introduction placeholder introduction placeholder introduction placeholder 
+  email: slove0318@snu.ac.kr
   keywords:
-    - social computing
-    - human-AI collaboration
-  img: ../images/dobby2.png
+    - keyword1
+    - keyword2
+  img: ../images/jaewon_pix.png
   extension: png
-  site: https://jaeyoon.io
+  site: https://jaewonkim.me
 
 - name: Jaeyoon Song
   introduction: This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.
