@@ -17,18 +17,8 @@
   img: ../images/jaewon_pix.png
   extension: png
   site: https://jaewonkim.me
-
-- name: Jaeyoon Song
-  introduction: This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.
-  email: jaeyoons@mit.edu
-  keywords:
-    - social computing
-    - human-AI collaboration
-  img: ../images/dobby4.png
-  extension: png
-  site: https://jaeyoon.io
   
-  - name: Yoon Jeong Cha
+- name: Yoon Jeong Cha
   introduction: Hi, I'm a PhD student at University of Michigan, School of Information. My research interest focus on HCI and Health Informatics. Specifically, I'm interested in understanding the challenges of child patients and designing technologies to support them. 
   email: yjcha@umich.edu
   keywords:
@@ -38,7 +28,7 @@
   extension: png
   site: https://yoonjeongcha.com
   
-  - name: Jane Im
+- name: Jane Im
   introduction: Hello! :) I am a social computing researcher and am currently a PhD student at the University of Michigan, both in the School of Information and Computer Science and Engineering. I design and build consentful systems to create a social internet that is safe and empowering for everyone, including marginalized populations.
   email: imjane@umich.edu
   keywords:
@@ -63,12 +53,12 @@
   extension: png
   site: https://terrykwon.com
 
-name: Ji Won Yang
-introduction: Hi, I’m a Ph.D student studying cognitive psychology(Learning and Memory Lab) at Seoul National University. I am fascinated with topics in education, technology, and the two combined & also love communicating insightful ideas!
-email: yangji921@snu.ac.kr
-keywords:
-    - Cognitive / Experimental Psychology
-    - Education + Technology
-img: ../images/jyang.png
-extension: png
-site: 
+- name: Ji Won Yang
+  introduction: Hi, I’m a Ph.D student studying cognitive psychology(Learning and Memory Lab) at Seoul National University. I am fascinated with topics in education, technology, and the two combined & also love communicating insightful ideas!
+  email: yangji921@snu.ac.kr
+  keywords:
+      - Cognitive / Experimental Psychology
+      - Education + Technology
+  img: ../images/jyang.png
+  extension: png
+  site: 
