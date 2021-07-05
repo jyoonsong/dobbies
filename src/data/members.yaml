@@ -62,3 +62,14 @@
   img: ../images/jyang.png
   extension: png
   site: 
+  
+  - name: Taewan Kim
+  introduction: I’m a P.hD student studying Human-computer Interaction (HCI) at Seoul National University, advised by Prof. Hwajung Hong. My research interests include Interactive system design for mental & physical wellbeing, Social computing, Human-AI interaction, and general Human-computer interaction topics.
+  email: twkim24@gmail.com
+  keywords:
+      - Mental & physical wellbeing
+      - Human-AI interaction
+  img: ../images/taewan.png
+  extension: png
+  site: https://taewankim.io
+  
