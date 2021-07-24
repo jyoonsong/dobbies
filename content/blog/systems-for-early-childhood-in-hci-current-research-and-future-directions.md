@@ -1,10 +1,10 @@
 ---
-title: Systems for early childhood in HCI:\   Current research and future directions
+title: "Systems for early childhood in HCI: Current research and future directions"
 date: 2021-07-24T03:32:31.233Z
 description: This post introduces several works in HCI that improve parenting
   and early childhood education.
 author: Taeahn Kwon
-draft: true
+draft: false
 ---
 # Early childhood and technology
 
@@ -15,10 +15,10 @@ rest of one's life. Consequently, education during early childhood
 yields disproportionally large influences on one's life. For example, a
 child's vocabulary at the age of three is one of the strongest
 predictors of later academic performance, including the likelihood of
-dropping out of high school `\cite{dickinson2011relation}`{=latex}.
+dropping out of high school \[Dickinson and Porche, 2011].
 Moreover, in the case that a child shows early signs of a developmental
 disorder, the earliest actions taken to intervene can make the largest
-differences in their outcomes `\cite{goode2011importance}`{=latex}.
+differences in their outcomes \[Goode et al., 2011].
 
 Can technology play a role in early childhood education? Researchers in
 diverse fields have explored this question. One line of work has, quite
@@ -29,7 +29,7 @@ them---leaving out younger children in the "critical period" between 0
 to 36 months in age where much of early education efforts are
 concentrated in. Moreover, many studies have found negative effects of
 digital devices on children's development
-`\cite{madigan2019association}`{=latex}.
+\[Madigan et al., 2019].
 
 How, then, can we use technology to help these younger children? It is
 hard to argue against the point that ideally, children should learn from
@@ -42,11 +42,9 @@ guidance. In this post I highlight several works in this domain, and
 hope to demonstrate the potential of such technology for education and
 intervention efforts.
 
-
-
 # TalkBetter (2014)
 
-![TalkBetter overview](/images/talkbetter.png)
+![TalkBetter overview](/images/talkbetter.png "TalkBetter")
 
 One group that requires special care in their early years are children
 affected by delayed language development, otherwise known as "late
@@ -62,9 +60,9 @@ playing, and serve to encourage the child to practice using language.
 Hence it is easy to imagine that active play and interaction between the
 child and parents at home plays a large role in language learning---and
 studies have shown that this is indeed the case
-`\cite{roberts2011effectiveness}`{=latex}.
+\[Roberts and Kaiser, 2011].
 
-TalkBetter `\cite{hwang2014talkbetter}`{=latex} is a system designed for
+TalkBetter \[Hwang et al., 2014] is a system designed for
 parents to improve their language habits at home using just a mobile
 device. The authors conduct extensive studies with speech language
 pathologists in order to understand guidelines that parents should
@@ -93,11 +91,11 @@ given may seem basic, they correct mistakes that parents habitually make
 in their daily lives, and were carefully curated through user studies
 with both parents and professional therapists.
 
-![SpecialTime overview](/images/specialtime.png)
+![SpecialTime overview](/images/specialtime.png "SpecialTime")
 
 # SpecialTime (2019)
 
-SpecialTime `\cite{huber2019specialtime}`{=latex} is a more recent
+SpecialTime \[Huber et al., 2019] is a more recent
 system that seeks to improve early childhood experiences by targeting
 parent habits. As we will see, its design follows a similar pattern to
 TalkBetter: informed by existing guidelines concerning parent-child
@@ -127,14 +125,12 @@ requires more proactive effort from the parent to alter habits; however,
 it is less obtrusive and distracting as compared to a real-time
 intervention.
 
-
-
-![DyadicMirror overview](/images/dyadic-mirror.png)
+![DyadicMirror overview](/images/dyadic-mirror.png "DyadicMirror")
 
 # DyadicMirror (2020)
 
 A third system designed to aid parenting is DyadicMirror
-`\cite{kim2020dyadic}`{=latex}. To increase self-awareness during
+\[Kim et al., 2020]. To increase self-awareness during
 parent-child interaction, the authors devise a remarkably simple
 solution: a mirror. They hypothesized that simply being aware of one's
 own face while interacting with the child can foster empathy,
@@ -178,3 +174,13 @@ current HCI research has explored only a fraction of possibilities. I
 expect that many more creative works---from systems that leverage
 state-of-the-art advances in AI, to simple mobile apps, will emerge to
 make large impacts on early childhood experiences in the coming years.
+
+# References
+
+* \[Dickinson and Porche, 2011] Dickinson, D. K. and Porche, M. V. (2011). Relation between language experiences in preschool classrooms and children’s kindergarten and fourth-grade language and reading abilities. Child development, 82(3):870–886.
+* \[Goode et al., 2011] Goode, S., Diefendorf, M., and Colgan, S. (2011). The importance of early intervention for infants and toddlers with disabilities and their families. The National Early Childhood Technical Assistance Center.
+* \[Huber et al., 2019] Huber, B., Davis III, R. F., Cotter, A., Junkin, E., Yard, M., Shieber, S., Brestan-Knight, E., and Gajos, K. Z. (2019). Specialtime: Automatically detecting dialogue acts from speech to support parent-child interaction therapy. In Proceedings of the 13th EAI International Conference on Pervasive Computing Technologies for Healthcare, pages 139–148.
+* \[Hwang et al., 2014] Hwang, I., Yoo, C., Hwang, C., Yim, D., Lee, Y., Min, C., Kim, J., and Song, J. (2014). Talkbetter: family-driven mobile intervention care for children with language delay. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing, pages 1283–1296.
+* \[Kim et al., 2020] Kim, W., Lee, S., Kim, S., Jo, S., Yoo, C., Hwang, I., Kang, S., and Song, J. (2020). Dyadic mirror: Everyday second-person live-view for empathetic reflection upon parent-child interaction. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(3):1–29.
+* \[Madigan et al., 2019] Madigan, S., Browne, D., Racine, N., Mori, C., and Tough, S. (2019). Association between screen time and children’s performance on a developmental screening test. JAMA pediatrics, 173(3):244–250.
+* \[Roberts and Kaiser, 2011] Roberts, M. Y. and Kaiser, A. P. (2011). The effectiveness of parent-implemented language interventions: A meta-analysis.
