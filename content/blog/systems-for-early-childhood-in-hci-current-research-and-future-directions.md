@@ -42,9 +42,11 @@ guidance. In this post I highlight several works in this domain, and
 hope to demonstrate the potential of such technology for education and
 intervention efforts.
 
-![image](talkbetter){width="\\textwidth"}
+
 
 # TalkBetter (2014)
+
+![TalkBetter overview](/images/talkbetter.png)
 
 One group that requires special care in their early years are children
 affected by delayed language development, otherwise known as "late
@@ -91,7 +93,7 @@ given may seem basic, they correct mistakes that parents habitually make
 in their daily lives, and were carefully curated through user studies
 with both parents and professional therapists.
 
-![image](specialtime.png){width="\\textwidth"}
+![SpecialTime overview](/images/specialtime.png)
 
 # SpecialTime (2019)
 
@@ -125,7 +127,9 @@ requires more proactive effort from the parent to alter habits; however,
 it is less obtrusive and distracting as compared to a real-time
 intervention.
 
-![image](dyadic-mirror.png){width="\\textwidth"}
+
+
+![DyadicMirror overview](/images/dyadic-mirror.png)
 
 # DyadicMirror (2020)
 
