@@ -44,7 +44,7 @@ intervention efforts.
 
 # TalkBetter (2014)
 
-![TalkBetter overview](/images/talkbetter.png "TalkBetter")
+![TalkBetter overview](../images/talkbetter.png "TalkBetter")
 
 One group that requires special care in their early years are children
 affected by delayed language development, otherwise known as "late
@@ -91,7 +91,7 @@ given may seem basic, they correct mistakes that parents habitually make
 in their daily lives, and were carefully curated through user studies
 with both parents and professional therapists.
 
-![SpecialTime overview](/images/specialtime.png "SpecialTime")
+![SpecialTime overview](../images/specialtime.png "SpecialTime")
 
 # SpecialTime (2019)
 
@@ -125,7 +125,7 @@ requires more proactive effort from the parent to alter habits; however,
 it is less obtrusive and distracting as compared to a real-time
 intervention.
 
-![DyadicMirror overview](/images/dyadic-mirror.png "DyadicMirror")
+![DyadicMirror overview](../images/dyadic-mirror.png "DyadicMirror")
 
 # DyadicMirror (2020)
 
