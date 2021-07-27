@@ -65,6 +65,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             thumbnail
+            author
           }
         }
       }

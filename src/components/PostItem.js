@@ -26,7 +26,7 @@ const PostItem = ({ post }) => {
 
             {/* post title & category */}
             <Card.Subtitle className="mb-2">
-                <small className="text-primary">Jaewon Kim</small>
+                <small className="text-primary">{post.frontmatter.author}</small>
             </Card.Subtitle>
 
             <Card.Title itemProp="headline">{title}</Card.Title>
