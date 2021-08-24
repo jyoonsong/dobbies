@@ -45,6 +45,9 @@
   "devDependencies": {
     "prettier": "2.2.1"
   },
+  "engines" : { 
+    "node" : "^12.20.0" 
+  },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
     "gatsby"
