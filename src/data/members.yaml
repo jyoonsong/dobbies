@@ -9,11 +9,9 @@
   site: https://jaeyoon.io
 
 - name: JaeWon Kim
-  introduction: introduction placeholder introduction placeholder introduction placeholder introduction placeholder introduction placeholder introduction placeholder introduction placeholder introduction placeholder introduction placeholder 
-  email: slove0318@snu.ac.kr
-  keywords:
-    - keyword1
-    - keyword2
+  introduction: Hi! :) I am a final year undergraduate student at Seoul National University, majoring in Happiness Studies (a student-designed major!), Psychology, and Computer Science & Engineering. Broadly speaking, I am interested in cross-disciplinary works, such as 1) building playful, personalized, and situation-aware intervention systems that promote well-being, 2) capturing and understanding individual differences in the digital world, and 3) integrating data-driven and theory-driven approaches for human-centered computing research.
+    - persuasive computing
+    - character computing
   img: ../images/jaewon_pix.png
   extension: png
   site: https://jaewonkim.me
